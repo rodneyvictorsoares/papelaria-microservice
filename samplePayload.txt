@@ -1,0 +1,16 @@
+{
+"codigoPedido":1001,
+"codigoCliente":1,
+"itens":[
+{
+"produto":"papel A4",
+"quantidade":500,
+"preco":32.00
+},
+{
+"produto":"lapiseira",
+"quantidade":3,
+"preco":9.00
+}
+]
+}
